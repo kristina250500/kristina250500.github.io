@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kristina250500.github.io/logoped-pivovar-ks/sitemap.xml
+Sitemap: https://kristina250500.github.io/sitemap.xml
